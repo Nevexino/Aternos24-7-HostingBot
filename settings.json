@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Nevex247",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Nvx",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "CZfunSmp.aternos.me",
+    "port": 64190,
     "version": "",
     "try-creative": false
   },
